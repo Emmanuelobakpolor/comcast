@@ -434,7 +434,7 @@ body {
 
     .notification {
         left: 1rem;
-        right: 1rem;
+        right: -100%;
         top: 1rem;
     }
 
